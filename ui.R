@@ -103,7 +103,7 @@ shinyUI(navbarPage("",
                             a("http://www.encyclopediaofmath.org/index.php/Regression_analysis"),
                             br(""),
                             h4("Link for the Source code of this Shiny Web App:"),
-                            a(""),
+                            a("https://codeload.github.com/ManzoorElahi/Religiosity/zip/master"),
                             br(""),
                             br(""),
                             br("")
